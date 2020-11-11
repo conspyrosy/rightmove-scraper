@@ -1,0 +1,3 @@
+# rightmove-scraper
+
+Scrape search results from rightmove using puppeteer. Still in development...
